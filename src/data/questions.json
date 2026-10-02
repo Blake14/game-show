@@ -1,0 +1,206 @@
+[
+	{
+		"id": "q001",
+		"category": "General Trivia",
+		"image": "/images/q001.jpg",
+		"prompt": "How many calories are in one single egg?",
+		"choices": ["72", "83", "94", "106"],
+		"answer": 0
+	},
+	{
+		"id": "q002",
+		"category": "General Trivia",
+		"image": "/images/q002.jpg",
+		"prompt": "Who is this?",
+		"choices": [
+			"Genghis Khan",
+			"Napoleon Bonaparte",
+			"Alexander the Great",
+			"Julius Caesar"
+		],
+		"answer": 2
+	},
+	{
+		"id": "q003",
+		"category": "Family History",
+		"prompt": "What year was Claire born?",
+		"choices": ["1991", "1992", "1993", "1994"],
+		"answer": 2
+	},
+	{
+		"id": "q004",
+		"category": "General Trivia",
+		"image": "/images/q004.jpg",
+		"prompt": "What movie is this from?",
+		"choices": [
+			"Dr. Dolittle 2",
+			"Planet of the Apes",
+			"Monkey Kingdom",
+			"Jumanji"
+		],
+		"answer": 3
+	},
+	{
+		"id": "q005",
+		"category": "Gaming",
+		"prompt": "How many hours does Dad have in Enshrouded?",
+		"choices": ["62", "105", "369", "482"],
+		"answer": 2
+	},
+	{
+		"id": "q006",
+		"category": "General Trivia",
+		"image": "/images/q006.png",
+		"prompt": "What machine/block is this in Mekanism the Minecraft Mod?",
+		"choices": [
+			"Metallurgic Infuser",
+			"Enrichment Chamber",
+			"Crusher",
+			"Purification Chamber"
+		],
+		"answer": 0
+	},
+	{
+		"id": "q007",
+		"category": "General Trivia",
+		"prompt": "Which of these Taco Bell menu items is not a real item?",
+		"choices": [
+			"Mini Taco Salad",
+			"The Crunchwrap Diablo Melt",
+			"Chocolate Fudge Empanada",
+			"Triple Double Crunchwrap"
+		],
+		"answer": 1
+	},
+	{
+		"id": "q008",
+		"category": "General Trivia",
+		"prompt": "How many yards did Derrick Henry rush for in the 2014 Sugar Bowl vs Oklahoma?",
+		"choices": ["50", "80", "100", "120"],
+		"answer": 2
+	},
+	{
+		"id": "q009",
+		"category": "General Trivia",
+		"prompt": "What was the #1 song when the triplets were born in May 2001?",
+		"choices": [
+			"\"Survivor\" by Destiny's Child",
+			"\"Butterfly\" by Crazy Town",
+			"\"All for You\" by Janet Jackson",
+			"\"Ride wit Me\" by Nelly"
+		],
+		"answer": 2
+	},
+	{
+		"id": "q010",
+		"category": "General Trivia",
+		"prompt": "What was the #1 song when dad was born in November 1972?",
+		"choices": [
+			"\"Burning Love\" by Elvis Presley",
+			"\"I Can See Clearly Now\" by Johnny Nash",
+			"\"My Ding-a-Ling\" by Chuck Berry",
+			"\"Papa Was a Rollin' Stone\" by The Temptations"
+		],
+		"answer": 1
+	},
+	{
+		"id": "q011",
+		"category": "General Trivia",
+		"prompt": "What was the #1 song when Claire was born in November 1993?",
+		"choices": [
+			"\"Dreamlover\" by Mariah Carey",
+			"\"All That She Wants\" by Ace of Base",
+			"\"Again\" by Janet Jackson",
+			"\"I'd Do Anything for Love (But I Won't Do That)\" by Meat Loaf"
+		],
+		"answer": 3
+	},
+	{
+		"id": "q012",
+		"category": "General Trivia",
+		"prompt": "What was the #1 song when Blake was born in December 1995?",
+		"choices": [
+			"\"One Sweet Day\" by Mariah Carey & Boyz II Men",
+			"\"Exhale (Shoop Shoop)\" by Whitney Houston",
+			"\"Gangsta's Paradise\" by Coolio",
+			"\"Hey Lover\" by LL Cool J"
+		],
+		"answer": 0
+	},
+	{
+		"id": "q013",
+		"category": "General Trivia",
+		"image": "/images/q013.jpg",
+		"prompt": "What card in Betrayal at House on the Hill can trigger the haunt?",
+		"choices": [
+			"The Event Card",
+			"The Omen Card",
+			"The Item Card",
+			"The Haunt Card"
+		],
+		"answer": 1
+	},
+	{
+		"id": "q014",
+		"category": "General Trivia",
+		"image": "/images/q014.jpg",
+		"prompt": "What is the cheat code for health in GTA V PC?",
+		"choices": ["daisy", "heal", "turtle", "hamburger"],
+		"answer": 2
+	},
+	{
+		"id": "q015",
+		"category": "General Trivia",
+		"image": "/images/q015.jpeg",
+		"prompt": "What iconic game is this map from?",
+		"choices": [
+			"The Elder Scrolls V: Skyrim",
+			"The Elder Scrolls IV: Oblivion",
+			"Far Cry 4",
+			"The Witcher 3: Wild Hunt"
+		],
+		"answer": 3
+	},
+	{
+		"id": "q016",
+		"category": "General Trivia",
+		"prompt": "What animal has the scientific name Bos taurus?",
+		"choices": ["Cow", "Parrot", "Camel", "Sheep"],
+		"answer": 0
+	},
+	{
+		"id": "q017",
+		"category": "General Trivia",
+		"image": "/images/q017.png",
+		"prompt": "What popular show had this as their house?",
+		"choices": ["iCarly", "Drake & Josh", "Friends", "Modern Family"],
+		"answer": 1
+	},
+	{
+		"id": "q018",
+		"category": "General Trivia",
+		"image": "/images/q018.jpg",
+		"prompt": "What is the name of this character from Family Guy?",
+		"choices": ["Herbert", "Albert", "Stewart", "Pickles"],
+		"answer": 0
+	},
+	{
+		"id": "q019",
+		"category": "General Trivia",
+		"prompt": "What does TASER stand for?",
+		"choices": [
+			"Tactical Assault Sensor Electroshock Rifle",
+			"Targeted Active Security Equipment Rifle",
+			"Thermal Assault Strike Equipment Rifle",
+			"Thomas A. Swift's Electric Rifle"
+		],
+		"answer": 3
+	},
+	{
+		"id": "q020",
+		"category": "General Trivia",
+		"prompt": "What is the #1 product sold at Walmart year after year?",
+		"choices": ["Milk", "Eggs", "Bananas", "Bread"],
+		"answer": 2
+	}
+]

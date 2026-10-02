@@ -1,0 +1,142 @@
+[
+	{
+		"id": "q001",
+		"category": "Process",
+		"prompt": "What does the C stand for in RACI?",
+		"choices": ["Consulted", "Controlled", "Coordinated", "Collaborated"],
+		"answer": 0
+	},
+	{
+		"id": "q002",
+		"category": "Process",
+		"prompt": "Who is the A (Accountable) for the platform SYSPRO?",
+		"choices": ["Jared Stone", "Aaron Harrell", "Arnab Islam", "Roman Bass"],
+		"answer": 2
+	},
+	{
+		"id": "q003",
+		"category": "General Office",
+		"prompt": "What is the address of the new office?",
+		"choices": [
+			"3167 E 49th Street",
+			"4105 E 51st Street",
+			"5245 S Yale Avenue",
+			"4200 E Skelly Drive"
+		],
+		"answer": 3
+	},
+	{
+		"id": "q004",
+		"category": "Roadmap",
+		"prompt": "Which of these project is not on the roadmap?",
+		"choices": [
+			"MuleSoft Optimization Project",
+			"MuleSoft Integration w/ SYSPRO",
+			"Configurable Inlet Locations",
+			"Elbows and Bellows in kBridge"
+		],
+		"answer": 0
+	},
+	{
+		"id": "q005",
+		"category": "Product Configuration",
+		"prompt": "Which accessory is not configurable?",
+		"choices": ["Wye", "Mitered Exhaust", "Flex Hose", "Bellow"],
+		"answer": 2
+	},
+	{
+		"id": "q006",
+		"category": "Product Configuration",
+		"prompt": "Which is not a valid product configuration type?",
+		"choices": ["Standard", "Configurable", "Replacement", "Custom"],
+		"answer": 2
+	},
+	{
+		"id": "q007",
+		"category": "Platforms",
+		"prompt": "What is Cority?",
+		"choices": [
+			"Engineering File Vault",
+			"Chemical Analysis Tool",
+			"Enterprise EHS Platform",
+			"3D CAD Software"
+		],
+		"answer": 2
+	},
+	{
+		"id": "q008",
+		"category": "General Office",
+		"prompt": "Which restaurant is closest to the Richmond Plaza Office?",
+		"choices": [
+			"The Bros. Houligan",
+			"Hideaway Pizza",
+			"Meddys",
+			"Neighborhood Jam"
+		],
+		"answer": 0
+	},
+	{
+		"id": "q009",
+		"category": "Platforms",
+		"prompt": "Which platform is not owned by Enterprise Platforms?",
+		"choices": ["ChemCAD", "AutoCAD", "riteLink", "iSolved"],
+		"answer": 2
+	},
+	{
+		"id": "q010",
+		"category": "Platforms",
+		"prompt": "Which option is not a valid reason for an off-cycle hot fix?",
+		"choices": [
+			"Aaron Says So",
+			"Quote Blocking Error",
+			"Quarterly Costing Update",
+			"Quick Easy Fix"
+		],
+		"answer": 3
+	},
+	{
+		"id": "q011",
+		"category": "Product Configuration",
+		"prompt": "True or False: You can quote a standard replacement APEX element within Maximyzer.",
+		"choices": ["True", "False"],
+		"answer": 0
+	},
+	{
+		"id": "q012",
+		"category": "Platforms",
+		"prompt": "Which application is responsible for generating dynamic sales drawings?",
+		"choices": ["OmniStudio", "AutoCAD", "kBridge", "Logik"],
+		"answer": 2
+	},
+	{
+		"id": "q013",
+		"category": "Platforms",
+		"prompt": "What is PIMLY?",
+		"choices": [
+			"Product Intelligence Platform",
+			"ERP Plug-in for Shipping",
+			"PO Receiving",
+			"Expense Tracking"
+		],
+		"answer": 0
+	},
+	{
+		"id": "q014",
+		"category": "Product Configuration",
+		"prompt": "Which best describes the configuration matricies?",
+		"choices": [
+			"Product Planning Tool",
+			"Standard Matrix of Products",
+			"List of Configurable Products",
+			"Constraints and Rules for Configurable Products"
+		],
+		"answer": 3
+	},
+	{
+		"id": "q015",
+		"category": "Platforms",
+		"prompt": "Which platform is not owned by the Shared Services team?",
+		"choices": ["SolidWorks", "UKG", "Esker", "Cadacus"],
+		"answer": 0
+	}
+]
